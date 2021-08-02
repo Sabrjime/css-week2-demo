@@ -1,0 +1,9 @@
+footer > p{
+    outline: 2px dotted hotpink;
+}
+P{
+    outline: 2px solid gray;
+}
+a[href*="patreon"], header>h1:first-child{
+    text-decoration: hotpink wavy underline;
+}
